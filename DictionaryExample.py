@@ -1,7 +1,3 @@
-print("Hello world")
-# tuple: la 1 dang list nhung k cho chinh sua du lieu (read-only)
-tup = ()
-
 lstContent = [
     {
         'title': 'title1',
@@ -20,3 +16,13 @@ print("lstContent[0]")
 print(lstContent[0]['title'])
 for obj in lstContent:
     print(obj)
+for obj in lstContent:
+    print(obj['title'])
+
+dic1 = {
+    'name': 'tuan',
+    'age': '20'
+}
+print(dic1)
+print(type(dic1))
+print(type(lstContent ))
