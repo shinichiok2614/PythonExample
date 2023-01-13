@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cad366a7-f20b-40c2-90d4-e35f2cee7d6c" name="Changes" comment="init">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/PythonExample.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CLIENT.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CLIENT1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CLIENT2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DatetimeExample.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DefExample.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DictionaryExample.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FileIOExample.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ForExample.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IfExample.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/InputExample.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JsonEx.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListExample.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PhepToanExample.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegexExample.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SERVER.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SERVER1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SERVER2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SetExample.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringExample.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Thread&amp;Process.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/regex.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tuan" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$/PycharmProjects/pythonProject" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Jr37mP6jX5VKZJxPVWIiey2oWT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/PythonExample&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cad366a7-f20b-40c2-90d4-e35f2cee7d6c" name="Changes" comment="" />
+      <created>1672822210295</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1672822210295</updated>
+    </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1672822444053</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1672822444053</updated>
+    </task>
+    <task id="LOCAL-00002" summary="init">
+      <created>1673582726932</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1673582726932</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
+  </component>
+</project>
